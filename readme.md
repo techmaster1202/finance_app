@@ -1,4 +1,4 @@
-# Andrei address
+![image](https://github.com/user-attachments/assets/00c84365-184f-44cf-a5b9-1a56f55b01ec)# Andrei address
 
 ```
 USDT TRC20
@@ -26,4 +26,20 @@ USDT BEP20 BNB Smart Chain
 ```
 USDT TRC20
 TVT9vcGLA4dEtDqPx14avvhDk1HVAr7EbU
+```
+
+# Douglas address
+
+```
+USDT BEP20 BNB Smart Chain
+0x260c297b053939abb56e70655bd71f3427fa272f
+```
+```
+USDT ERC20
+0x76e45dbdc3e295cbc89c397903333e03b7e54dcc
+```
+
+```
+USDT TRC20
+TQndUFjf7dN2m9WTvbyhXGJ5ocWYqpFPog
 ```
